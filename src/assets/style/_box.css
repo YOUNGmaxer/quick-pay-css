@@ -1,0 +1,45 @@
+.full {
+  width: 100%;
+  height: 100%;
+}
+
+.h-full {
+  height: 100vh;
+}
+
+.m-x-16 {
+  margin-left: 16px;
+  margin-right: 16px;
+}
+
+.m-t-16 {
+  margin-top: 16px;
+}
+
+.m-b-16 {
+  margin-bottom: 16px;
+}
+
+.m-r-16 {
+  margin-right: 16px;
+}
+
+.m-l-16 {
+  margin-left: 16px;
+}
+
+.m-l-18 {
+  margin-left: 18px;
+}
+
+.m-r-10 {
+  margin-right: 10px;
+}
+
+.m-l-10 {
+  margin-left: 10px;
+}
+
+.p-l-16 {
+  padding-left: 16px;
+}
